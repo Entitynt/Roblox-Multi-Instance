@@ -5,8 +5,8 @@ Roblox typically allows only one instance to run at a time, but with this tool, 
 Additionally, if your computer’s processor is also struggling, you can limit CPU usage, ensuring smoother performance.
 
 Pictures:
-
 Before not using the program
+
 ![image](https://github.com/user-attachments/assets/e13a9ef2-b416-4833-8f6a-8432537d6614)
 
 After using the program
