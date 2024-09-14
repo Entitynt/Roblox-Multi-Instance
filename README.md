@@ -9,7 +9,7 @@ Additionally, if your computer’s processor is also struggling, you can limit C
 Pictures:
 Before not using the program
 
-![image](https://github.com/user-attachments/assets/e13a9ef2-b416-4833-8f6a-8432537d6614)
+![image](https://github.com/user-attachments/assets/693e90e8-2260-41f6-b6c5-22f926afbdb1)
 
 After using the program
 ![image](https://github.com/user-attachments/assets/dd01caf3-6206-432b-b31c-4258a4cc3ad8)
