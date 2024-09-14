@@ -12,6 +12,9 @@ Before not using the program
 After using the program
 ![image](https://github.com/user-attachments/assets/dd01caf3-6206-432b-b31c-4258a4cc3ad8)
 
+Program Console Picture:
+![image](https://github.com/user-attachments/assets/0edb9964-b4c6-4fb1-b04d-90cbf98e1ea7)
+
 # Debugging
 Release x64
 
