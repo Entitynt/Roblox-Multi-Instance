@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source\Utils">
+      <UniqueIdentifier>{25ff6e35-6fa0-46df-b699-3acc8cd82c4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Instance Tools">
+      <UniqueIdentifier>{120b5a6b-5d24-4bed-b3c8-6ff8c3cf3836}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Source\Instance Tools\InstanceTools.cpp">
+      <Filter>Source\Instance Tools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Utils\Utils.h">
+      <Filter>Source\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Instance Tools\InstanceTools.hpp">
+      <Filter>Source\Instance Tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
