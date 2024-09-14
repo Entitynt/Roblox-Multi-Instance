@@ -2,6 +2,8 @@
 
 I don't accept no responsibility!
 
+I have just started c++, so you need to take some things into account, and if there is information that will benefit me, if you reach and tell me, you will help me improve.
+
 Roblox typically allows only one instance to run at a time, but with this tool, you can open multiple processes simultaneously. Not only does it allow multiple instances, but it also performs memory cleaning. For example, if you have 10 accounts running and, like me, you have 16GB of RAM, your computer might start to lag. However, with this tool, each instance undergoes a memory clean every second. During a test with just one instance, I observed RAM usage drop from 66% to around 60-61%.
 
 Additionally, if your computer’s processor is also struggling, you can limit CPU usage, ensuring smoother performance.
